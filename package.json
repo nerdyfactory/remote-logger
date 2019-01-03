@@ -1,5 +1,5 @@
 {
-  "name": "remote-logger",
+  "name": "rn-remote-logger",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -22,9 +22,9 @@
   },
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nerdyfactory/remote-logger/issues"
+    "url": "https://github.com/nerdyfactory/rn-remote-logger/issues"
   },
-  "homepage": "https://github.com/nerdyfactory/remote-logger#readme",
+  "homepage": "https://github.com/nerdyfactory/rn-remote-logger#readme",
   "dependencies": {
     "axios": "^0.18.0"
   },
